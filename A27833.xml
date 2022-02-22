@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King, upon the Queens being deliver'd of a son June the 10th, MDCLXXXVIII : a poem / by John Baber ...</title>
+            <author>Baber, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27833</idno>
+            <idno type="STC">Wing B246</idno>
+            <idno type="STC">ESTC R6126</idno>
+            <idno type="EEBO-CITATION">13221829</idno>
+            <idno type="OCLC">ocm 13221829</idno>
+            <idno type="VID">98534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King, upon the Queens being deliver'd of a son June the 10th, MDCLXXXVIII : a poem / by John Baber ...</title>
+                  <author>Baber, John.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mary Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satirical.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98534:1"/>
+            <pb facs="tcp:98534:1"/>
+            <p>To the King, UPON THE QUEENS BEING DELIVER'D OF A SON <hi>June</hi> the 10th. MDCLXXXVIII.</p>
+            <p>A POEM.</p>
+            <p>By JOHN BABER <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>Permiſſu Superiorum.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Mary Thompſon</hi> at the Entrance into <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> near <hi>Charing-croſs,</hi> Anno. Dom. MDCLXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98534:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:98534:2"/>
+            <head>TO THE KING.</head>
+            <lg>
+               <l>NINE Months a Loyal Zeal has Fir'd my Breaſt;</l>
+               <l>Which for Nine Muſes could not be at Reſt<g ref="char:punc">▪</g>
+               </l>
+               <l>Who long have Struggling and in Labour been,</l>
+               <l>To give the <hi>KING</hi> a <hi>SON</hi> before the <hi>Q<g ref="char:V">Ʋ</g>EEN<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>But Duty has Controul'd the Muſes Pow'r,</l>
+               <l>And check'd my Rage to wait Her Happy Hour.</l>
+            </lg>
+            <lg>
+               <l>Some could not Bridle their Officious Rhyme,</l>
+               <l>But muſt beſtow an <hi>Heir</hi> before the Time:</l>
+               <l>Where each Well-wiſher Honeſtly intends,</l>
+               <l>Good Will for Paultry Lines, muſt make Amends:</l>
+               <l>Who can more eaſily Foretell and Gueſs,</l>
+               <l>Then when it is Arriv'd good News expreſs:</l>
+               <l>Better had They in Church or Cloſet ſtay'd,</l>
+               <l>Devoutly for the future Bleſſings Pray'd;</l>
+               <l>Then with too Early Rhymes a Son beſpeak,</l>
+               <l>And thus the <hi>Queen</hi> and <hi>Heav'n</hi> their Debtors make:</l>
+               <l>Then with Abortive Joyes the Nation fill,</l>
+               <l>And make the CONSORT bear the burden ſtill:</l>
+               <l>For till the Long'd for <hi>Heir</hi> was Born, and <hi>She</hi>
+               </l>
+               <l>Was Safe, my Muſe could never Pregnant be:</l>
+            </lg>
+            <lg>
+               <l>From this Bleſt Hour the Great Foundations laid,</l>
+               <l>And <hi>Britains Monarchy</hi> Immortal made;</l>
+               <l>From this Great Day, Our Happineſs we Date</l>
+               <l>And <hi>Britains</hi> future Greatneſs <hi>Calculate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As the <hi>Supream,</hi> the Globe from <hi>Chaos</hi> wrought,</l>
+               <l>Which coſt ſix days till to perfection brought,</l>
+               <l>When All in Harmony and Order ran,</l>
+               <l>And <hi>Paradiſe</hi> was form'd created Man;</l>
+               <l>So You, Great Prince, in three Revolving years;</l>
+               <l>Have cur'd Your <hi>World</hi> of <hi>Jealouſies</hi> and <hi>Fears;</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:98534:3"/>
+                  <hi>Rebellion</hi> Vanquiſht, and laid <hi>Faction</hi> dead,</l>
+               <l>And left none now the <hi>Commons</hi> to miſlead;</l>
+               <l>Bereav'd the <hi>Popular Villains</hi> of <hi>Pretence,</hi>
+               </l>
+               <l>And, giving <hi>Liberty,</hi> have giv'n us <hi>Senſe,</hi>
+               </l>
+               <l>Have open'd all Your Subjects Hearts and Eyes,</l>
+               <l>So that <hi>Confuſion</hi> now <hi>Confounded</hi> lies:</l>
+               <l>Some Murmurs may, perhaps, about be blown,</l>
+               <l>As Billows rowl after the Wind is down,</l>
+               <l>All by Your Care and Providence fore-caſt,</l>
+               <l>Your <hi>Land in Paradiſe</hi> becomes at laſt,</l>
+               <l>And to perpetuate what you have done,</l>
+               <l>And rule this <hi>Paradiſe,</hi> you've made a <hi>SON.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How <hi>Heav'n</hi> is Gracious in beſtowing now,</l>
+               <l>And has done Wonders in preſerving You:</l>
+               <l>No Pen can tell of all the <hi>Writing</hi> Tribe,</l>
+               <l>Nor can the <hi>Beauty</hi> of Your <hi>Queen</hi> deſcribe;</l>
+               <l>
+                  <hi>Beauty,</hi> which to Your <hi>Son</hi> tranſlated may</l>
+               <l>Live in Your Throne, and not with Age decay</l>
+               <l>That all hereafter may be Succeſſors</l>
+               <l>To Her bright form, who are to <hi>Empire Yours.</hi>
+               </l>
+               <l>What <hi>Heav'n</hi> has caſt in ſo Divine a Mould,</l>
+               <l>Muſt <hi>Beauty</hi> fit to wear a <hi>Crown</hi> enfold,</l>
+               <l>So ſhall Her <hi>Eyes</hi> not be admir'd alone,</l>
+               <l>But be ador'd for ever in her <hi>SON,</hi>
+               </l>
+               <l>And Your Bleſt Choice hereafter to maintain,</l>
+               <l>Her <hi>Beauty</hi> ſhall forever <hi>Conſort</hi> Reign.</l>
+            </lg>
+            <lg>
+               <l>Dreſt in Her Garb, let the <hi>PRINCE</hi> mount the Stage,</l>
+               <l>Be like his <hi>Father</hi> at Maturer Age.</l>
+               <l>Let <hi>JAMES's</hi> Spirit in his Boſome reſt,</l>
+               <l>All <hi>Great</hi> and <hi>Good,</hi> and <hi>Thine</hi> poſſeſs his Breaſt;</l>
+               <l>Thy <hi>Prudence,</hi> like a Robe, his Sholders deck,</l>
+               <l>Thy <hi>Wiſdom,</hi> a Gold Chain about his Neck:</l>
+               <l>This to obtain, may He Your Footſteps Trace,</l>
+               <l>And every <hi>Virtue</hi> which was <hi>Yours</hi> Embrace.</l>
+            </lg>
+            <lg>
+               <l>Loud ſounds the Fame of the Great <hi>Latian</hi> KING,</l>
+               <l>Who from Burnt <hi>Troy</hi> did old <hi>Anchiſes</hi> bring;</l>
+               <l>The Fathers weight did the kind Son ſuſtain,</l>
+               <l>And paid the Life He gave him back again.</l>
+               <l>Greater in <hi>Hiſtory</hi> ſhall the <hi>PRINCE</hi> appear,</l>
+               <l>If of <hi>Your Virtues</hi> He the weight can bear;</l>
+               <l>Preſt with that Sacred, Solid, Maſſy Load,</l>
+               <l>He ſhall be Great at Home, and Fear'd Abroad;</l>
+               <l>
+                  <pb n="3" facs="tcp:98534:3"/>Toils and Fatigues with eaſe ſhall undergo,</l>
+               <l>And nothing but delight in Buſineſs know:</l>
+               <l>All this foretold, may without Magick be;</l>
+               <l>And without caſting His Nativity:</l>
+               <l>If He his Fathers Mind and Figure bear,</l>
+               <l>Steady as <hi>Atlas</hi> He ſhall poiſe our Sphere.</l>
+            </lg>
+            <lg>
+               <l>To paint theſe Virtues plainer to Your <hi>SON,</hi>
+               </l>
+               <l>'Tis fit, we ſhould relate 'em one by one.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Obedience</hi> to <hi>Your Brother,</hi> made it plain;</l>
+               <l>When 'twas Your Lot, You would the better Reign:</l>
+               <l>The Prop to <hi>Monarchy,</hi> almoſt run down;</l>
+               <l>That Virtue only was, and Sav'd the Crown:</l>
+               <l>Void of that Virtue, <hi>Cornwall</hi> in Debate,<note place="margin">Richard Earl of <hi>Cornwall,</hi> King of the <hi>Romans,</hi> Broth. to K. <hi>Henry</hi> the 3d.</note>
+               </l>
+               <l>Brought the <hi>Prerogative,</hi> and ſet up the State:</l>
+               <l>His Brother Level with the <hi>Barons,</hi> laid</l>
+               <l>The <hi>Diadem</hi> he Envy'd, he Betray'd:</l>
+               <l>Both <hi>King</hi> and <hi>State,</hi> when he no more could do,</l>
+               <l>Did of this Popular Pageant weary grow.</l>
+               <l>A Crown to Purchaſe, they did fill his Purſe;</l>
+               <l>But want of Pow'r, ſoon render'd it a Curſe:</l>
+               <l>At laſt his Titular Crown, was glad to quit;</l>
+               <l>And to his Brother by his choice ſubmit.</l>
+            </lg>
+            <lg>
+               <l>Your <hi>Vigilance</hi> does ſureſt Meaſures take,</l>
+               <l>And with Your Arms does keep Your Foes awake:</l>
+               <l>No ſooner does the Spring her Bloſſoms yield,</l>
+               <l>But Quarters left, Your Army takes the Field:</l>
+               <l>Your Hoſt Encamp'd, Your Foreign Foes are Scar'd;</l>
+               <l>And You ſecure our Peace, for War Prepar'd.</l>
+               <l>Your Care does for the Nations Good ſuffice,</l>
+               <l>Sees more than <hi>Commonwealths</hi> with <hi>Argus</hi> Eyes:</l>
+               <l>Nor are Your Pains, or Labours ever loſt,</l>
+               <l>The Work's well done, which does Your Thinking coſt.</l>
+               <l>You, with th' Eternal Travelling <hi>Sun</hi> keep pace</l>
+               <l>In his carriere Him to a Minute trace:</l>
+               <l>With more Exactneſs, You do Bleſs our Sight,</l>
+               <l>Then he throughout the Year divides his Light.</l>
+               <l>Nor does th' Unconſtant <hi>Moon</hi> her Courſe renew,</l>
+               <l>But all her Changes are obſerv'd by You;</l>
+               <l>On her quick motions, You attention lend,</l>
+               <l>Becauſe Your <hi>Ocean,</hi> and Your <hi>Thames</hi> depend:</l>
+               <l>So Nicely You regard the <hi>Winds</hi> and <hi>Tides,</hi>
+               </l>
+               <l>You know almoſt where every Veſſel rides:</l>
+               <l>
+                  <pb n="4" facs="tcp:98534:4"/>The <hi>Holy Church</hi> can't from Her Motions Swerve,</l>
+               <l>And You Her Feaſts Religiouſly Obſerve.</l>
+               <l>All things by You, which do the Actions Grace,</l>
+               <l>Are done in their moſt proper Time, and Place:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Juſt</hi> was You Styl'd, before You wore the Crown;</l>
+               <l>Now Juſtice is Triumphant in Your Throne<g ref="char:punc">▪</g>
+               </l>
+               <l>All who approach You neareſt, ſtand in Awe,</l>
+               <l>And leaſt of all Mankind dare break Your Law:</l>
+               <l>With them, they know, it will the harder fare,</l>
+               <l>To whom Your Will ſo often You declare:</l>
+            </lg>
+            <lg>
+               <l>The Swarms who lately did the Roads infeſt,</l>
+               <l>By Your Impartial <hi>Juſtice</hi> are Suppreſt;</l>
+            </lg>
+            <lg>
+               <l>The Broad Seal muſt not bluſhing, any more</l>
+               <l>Fellons to Life or Liberty reſtore;</l>
+               <l>They who the part now of Delinquents take,</l>
+               <l>Themſelves do viler then Delinquents make;</l>
+            </lg>
+            <lg>
+               <l>Duels, which Honour, and which Paſſion plead,</l>
+               <l>Which fear not Enemies, Your Vengeance dread.</l>
+            </lg>
+            <lg>
+               <l>To Souldiers no Exemption You afford,</l>
+               <l>Juſtice points at Them with a Two edg'd Sword.</l>
+               <l>
+                  <hi>Civil</hi> and <hi>Martial Laws,</hi> the Soldiers bind,</l>
+               <l>And They found Guilty, no <hi>Indulgence</hi> find:</l>
+               <l>May the ungrateful Country ſtill exclaim,</l>
+               <l>And with repeated Lyes Your Troops defame,</l>
+               <l>Whilſt Strangers: don't Your Choice alone applaud,</l>
+               <l>But vindicate Your <hi>Diſcipline</hi> Abroad.</l>
+            </lg>
+            <lg>
+               <l>Nor muſt Your <hi>Temperance</hi> paſs unadmir'd,</l>
+               <l>Although the Virtue with moſt eaſe acquir'd;</l>
+               <l>This Our bleſt days, and ſhall prolong Your Reign,</l>
+               <l>And Men ſhall Years by Your Example gain.</l>
+               <l>Who would not manage His dear life the more,</l>
+               <l>To ſee ſuch Days he never ſaw before?</l>
+               <l>So liv'd the <hi>Romans,</hi> when <hi>Auguſtus</hi> Reign'd,</l>
+               <l>Then Time was precious, Life with care maintain'd,</l>
+               <l>That Men who did thoſe Golden days ſurvive</l>
+               <l>Life preſent, for the paſt, in change would give.</l>
+            </lg>
+            <lg>
+               <l>That which reforms Your Army and Your Court,</l>
+               <l>Is of Your <hi>Piety</hi> a main ſupport.</l>
+               <l>You by ſincere and True Devotion ſhow,</l>
+               <l>When You leave <hi>Brittain,</hi> whether You muſt go.</l>
+               <l>As Angels ſtep by ſtep, did mount on high,</l>
+               <l>On <hi>Jacobs</hi> Ladder, till they reach'd the Sky,</l>
+               <l>
+                  <pb n="5" facs="tcp:98534:4"/>When the <hi>Almighty</hi> ſhall ordain the Time;</l>
+               <l>So by Your <hi>Virtues</hi> You to Heav'n may climb;</l>
+               <l>The numerous <hi>Virtues</hi> daily You diſpence,</l>
+               <l>Would make us rather think You came from thence:</l>
+               <l>Theſe daily here below Your Worth proclaim,</l>
+               <l>And give You more than Common Hero's Fame,</l>
+               <l>Who by no other Title Credit gain,</l>
+               <l>Than by the Pitty'd numbers of the Slain,</l>
+               <l>In making Orphans weep, and Widdows mourn,</l>
+               <l>Whoſe Trade's to Pillage, Sack, Beſiege and Burn;</l>
+               <l>Such <hi>Caeſar</hi> was, ſuch <hi>Alexander</hi> too,</l>
+               <l>In what, SIR, were They then more Brave than You?</l>
+               <l>For Mangling others Subjects They were known,</l>
+               <l>But You preſerve and try t'encreaſe Your Own<g ref="char:punc">▪</g>
+                  <note place="margin">His Majeſties deſign for a General Natu<g ref="char:EOLhyphen"/>ralization.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>The Liberty to <hi>Brittiſh</hi> Air confin'd,</l>
+               <l>You make a Preſent of, to all Mankind.</l>
+            </lg>
+            <lg>
+               <l>'Tis greater Glory freely to receive,</l>
+               <l>And make Your Neighbours in Your Nation Live,</l>
+               <l>Then Quarter in their Soil to ſhow Your Power,</l>
+               <l>And all Their <hi>Pains</hi> and <hi>Property</hi> devour.</l>
+            </lg>
+            <lg>
+               <l>To <hi>France</hi> more clearly You Your Title ſhow,</l>
+               <l>Now <hi>French-men</hi> Refuge to Your Bounty owe,</l>
+               <l>Then if their Conquer'd Country You ran o're,</l>
+               <l>And ſhould re-take what was Yours heretofore.</l>
+            </lg>
+            <lg>
+               <l>What <hi>Engliſh</hi> Monarch ever look'd ſo far,</l>
+               <l>And made the World the Object of his Care?</l>
+               <l>You, to be Naturaliz'd, do all invite,</l>
+               <l>Your Yoak is eaſie, and Your Burden light.</l>
+            </lg>
+            <lg>
+               <l>Well does it for Your happy Subjects fare,</l>
+               <l>That You their Blood in Your Expences ſpare;</l>
+               <l>You ſee particulars in Your Accounts</l>
+               <l>Of Summs, to which Your vaſt Revenue mounts.</l>
+            </lg>
+            <lg>
+               <l>You care not to grow Rich at any Rate,</l>
+               <l>But would, t'improve Our Trade, Great Sums abate;</l>
+               <l>Your <hi>Cuſtoms</hi> Ebb, You gladly would allow,</l>
+               <l>To make the <hi>Engliſh Manufactures</hi> flow:</l>
+               <l>To You, and <hi>Our late Monarch,</hi> many years</l>
+               <l>We for the Navy have been in Arrears.</l>
+               <l>That <hi>England</hi> does not barely Duty owe,</l>
+               <l>But is indebted Sums of Money too.</l>
+            </lg>
+            <lg>
+               <l>You in Your Treaſury long Hours do ſtay,</l>
+               <l>While others are diſpatcht and ſent away;</l>
+               <l>
+                  <pb n="6" facs="tcp:98534:5"/>So long on Buſineſs there you wait, till few</l>
+               <l>Are found, when You come forth, to wait on You:</l>
+            </lg>
+            <lg>
+               <l>Your Thrift to ſave Your Subjects Money ſtrives,</l>
+               <l>As Your Compaſſion does to ſave their Lives.</l>
+               <l>So Provident of both, of none profuſe,</l>
+               <l>This for Example goes, and that for Uſe,</l>
+               <l>Thus in the <hi>Weſt</hi> no Guiltleſs Subject bled,</l>
+               <l>Or could Impeach Your want of Mercy, dead.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Freedom</hi>'s a Happineſs, but not compleat,</l>
+               <l>Where rhere remains a Priviledge to Cheat:</l>
+               <l>Cheats You've declar'd with Vigour to oppoſe;</l>
+               <l>And greateſt <hi>Grievances,</hi> make greateſt Foes:</l>
+               <l>A <hi>Grievance</hi> our fore-Fathers have endur'd,</l>
+               <l>And ſtill is Felt, ſhall in Your Reign be Cur'd.</l>
+               <l>You give us Hopes; And You muſt needs prevail,</l>
+               <l>Too Juſt, and Great, is Your Deſign to fail.</l>
+               <l>Since You of <hi>Mortgag'd Lands</hi> would Frauds prevent,</l>
+               <l>The <hi>States</hi> t' Regiſter muſt for Shame Conſent.</l>
+               <l>The Suck-blood Vermin of the <hi>Robe</hi> alone,</l>
+               <l>Can Smile to ſee Men every Day undone.</l>
+               <l>Muſt Rich Men Poor become t'advance Their Trade,</l>
+               <l>And Honeſt Men buy Land in <hi>Maſquerade?</hi>
+               </l>
+               <l>Muſt <hi>Rogues</hi> Eſcape their Country who Defame;</l>
+               <l>And <hi>Terra Firma</hi> be an empty Name?</l>
+               <l>Muſt <hi>Villains</hi> without Puniſhment Combine?</l>
+               <l>Laws be their Shelter, Right to Undermine?</l>
+               <l>In Towns Beleaguer'd, ſafer is the Ground,</l>
+               <l>Here <hi>Lawyers</hi> oftner Springing Mines are found:</l>
+               <l>The unprevailing Knaves no Damage meet;</l>
+               <l>But Honeſt Men are Ruin'd if they hit.</l>
+            </lg>
+            <lg>
+               <l>Leaſt Strangers hoping Liberty to ſhare,</l>
+               <l>Should be Surpriz'd and drawn into a Snare;</l>
+               <l>A Law againſt this Miſchief, <hi>Sir,</hi> provide,</l>
+               <l>This Grivance ſo deteſted, and decry'd:</l>
+               <l>For which I in a Rapture wiſh Succeſs,</l>
+               <l>And turn my <hi>Poem</hi> into an <hi>Addreſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>May Perjur'd <hi>Raſcals</hi> into Priſon ſent,</l>
+               <l>And Whipt, and Pillory'd, grown Impudent;</l>
+               <l>Like <hi>Fellons</hi> ſuffer, equal danger run;</l>
+               <l>That Crime alone has much more Miſchief done.</l>
+               <l>
+                  <hi>SCOTLAND,</hi> which Death for <hi>Perjury</hi> Allots;</l>
+               <l>Free when <hi>Oates</hi> flouriſh'd, from pretended <hi>PLOTS:</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:98534:5"/>Has not been by <hi>State Homicides</hi> drawn in</l>
+               <l>To Guilt of <hi>Murder,</hi> that moſt Crying Sin.</l>
+               <l>There are no Living Faces to look Red,</l>
+               <l>With Dead Mens Blood by <hi>Debauch'd Juſtice</hi> ſhed.</l>
+               <l>Yet our Convicted <hi>Chief Impoſtor</hi> here,</l>
+               <l>Of Life Secure, does a Cag'd Carcaſs bear,</l>
+               <l>In Tales perſiſting from his Lying Throat,</l>
+               <l>The <hi>Black-Bird</hi> Perches, Whiſtling the ſame Note.</l>
+               <l>That Crime Repeated, <hi>Witneſs</hi> Bought, and Sold;</l>
+               <l>In <hi>Tryals,</hi> he may every day behold.</l>
+               <l>And by the Progreſs of thoſe Rake-hells, He</l>
+               <l>May fear, He may in Priſon Crowded be.</l>
+               <l>But Pardon, <hi>Sir,</hi> That with a Name ſo Vile,</l>
+               <l>I do theſe Verſes and Your Hand Defile.</l>
+            </lg>
+            <lg>
+               <l>Theſe to Extirpate be Your Thoughts employ'd,</l>
+               <l>That Your old Foe and Ours may be Deſtroy'd:</l>
+               <l>For while of theſe Your Subjects ſtand in fear,</l>
+               <l>
+                  <hi>Freedom</hi> and <hi>Property</hi> but Trifles are:</l>
+               <l>Our Subſtance is, though theſe we vainly Boaſt,</l>
+               <l>Safer on <hi>Seas,</hi> than on the <hi>Engliſh</hi> Coaſt.</l>
+               <l>In fear we lay out <hi>Wealth,</hi> and for the Reſt,</l>
+               <l>We are but <hi>Merchant-Venturers</hi> at Beſt.</l>
+            </lg>
+            <lg>
+               <l>Heaven has put all theſe Things into Your Mind,</l>
+               <l>And what's Amiſs, You to Reform Deſign'd.</l>
+               <l>Has given You Pow'r, which no Pow'r can Controul,</l>
+               <l>An Active Body, and a Perfect Soul.</l>
+               <l>That as the Cauſe produces the Effect,</l>
+               <l>So From theſe Gifts, we may the Fruits expect.</l>
+            </lg>
+            <lg>
+               <l>Theſe Leſſons perfectly Your SON muſt know,</l>
+               <l>To what He muſt His future Greatneſs owe.</l>
+               <l>He muſt obſerve His Fathers Rules alone,</l>
+               <l>Has Able <hi>Miniſters,</hi> though He wants none:</l>
+               <l>That He does all Things know, and all Inſpect;</l>
+               <l>And in moſt Doubtful Caſes does Direct,</l>
+               <l>They but the Oar do Mannage, while He <hi>Stiers,</hi>
+               </l>
+               <l>And in moſt publick Acts his Stile appears,</l>
+               <l>That theſe to Rule are neceſſary Things,</l>
+               <l>Support not only, but Diſtinguiſh KINGS.</l>
+               <l>
+                  <pb n="8" facs="tcp:98534:6"/>KINGS will be ever from Oblivion free</l>
+               <l>And all of Courſe come into <hi>Hiſtory,</hi>
+               </l>
+               <l>And whatſoever are Their Actions, <hi>Speed</hi>
+               </l>
+               <l>In Order Pens Them down, as They Succeed.</l>
+               <l>Each KING has a new Stamp, and th' Old does Change<g ref="char:punc">▪</g>
+               </l>
+               <l>And every KING a Statue on th' <hi>Exchange.</hi>
+               </l>
+               <l>In <hi>Baker</hi> they Their ſeveral Periods bear,</l>
+               <l>As <hi>May'rs</hi> and <hi>Sheriffs</hi> Recorded for their Year.</l>
+               <l>Some have their <hi>Poets,</hi> who in their Defence;</l>
+               <l>Write what they Think not, and Belye good Senſe:</l>
+               <l>With Gilded Lines, a <hi>Hero</hi> who to Feign,</l>
+               <l>Like Crutches would Support a Feeble Reign:</l>
+               <l>Who would their Prince near His Inferiors place,</l>
+               <l>As Women ſeek Foils to ſet off a Face.</l>
+            </lg>
+            <lg>
+               <l>For You whoſe Actions ſtill are ſo Sublime,</l>
+               <l>Above the Flight of Rapture, or of Rhyme.</l>
+               <l>Invention is too weak, Expreſſion low,</l>
+               <l>Juſt Praiſes for your Merits to beſtow.</l>
+               <l>Without ſet-Speech, or Verſe You're Prais'd by All,</l>
+               <l>So naturally from their Lips Your Praiſes fall:</l>
+            </lg>
+            <lg>
+               <l>As You their Maker them permit to Praiſe,</l>
+               <l>As Conſcience Dictates, though in divers Wayes:</l>
+               <l>So every Subject pays his Tribute due,</l>
+               <l>And in h's own Method daily Praiſes You.</l>
+            </lg>
+            <lg>
+               <l>To paint Your Wiſdom, who are truly Wiſe,</l>
+               <l>And more Diſcern then Subjects can Adviſe:</l>
+               <l>And better know to Give, than they to ask;</l>
+               <l>Vain the Attempt is, and I quit the Task.</l>
+            </lg>
+            <lg>
+               <l>Of Your Dominions may He know the length,</l>
+               <l>And of Your Scepter may he feel the ſtrength,</l>
+               <l>Of Favours and Commands, which You confer,</l>
+               <l>May He the Value know, or very near,</l>
+               <l>The worth of Things, to which You Men advance,</l>
+               <l>Their Dutiful Deſervings to enhance.</l>
+               <l>Though he look big, with Freeborn in his Face,</l>
+               <l>How ſlight a thing's a Subject in Diſgrace?</l>
+               <l>
+                  <pb n="9" facs="tcp:98534:6"/>What ſlender Worſhip does a Title bring,</l>
+               <l>To Him who's out of Favour with his King?</l>
+               <l>Againſt Him Combinations are Contriv'd,</l>
+               <l>And Quarrels, which lay dormant, are reviv'd.</l>
+            </lg>
+            <lg>
+               <l>Bleak looks a <hi>Trading City,</hi> and deſpis'd,</l>
+               <l>A Body without Soul, the <hi>Charter</hi> ſeiz'd</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Maces</hi> and <hi>Furrs</hi> their Princes Favour gone,</l>
+               <l>Neglected look, like Roſes after <hi>June.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Lord, the <hi>Judge,</hi> diveſted of his <hi>Chain,</hi>
+               </l>
+               <l>Takes Fees, and pleads below the <hi>Bar</hi> again;</l>
+            </lg>
+            <lg>
+               <l>The Stubborn <hi>Prelate,</hi> whom his Prince Rebukes,</l>
+               <l>With Heav'n it ſelf, then out of Favour looks;</l>
+               <l>The Flock their Paſtor both ſupects and fears,</l>
+               <l>When in Sheeps-cloathing He a Wolf appears:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>White-Staff</hi> diſcarded, Lame and Helpleſs ſeems,</l>
+               <l>Though he walk luſty with ſubſtantial Limbs.</l>
+               <l>A Colonel in Commiſſion Inſolent,</l>
+               <l>Caſhier'd his haughty Carriage does repent,</l>
+               <l>As on Death-bed, Contrition does begin,</l>
+               <l>With them who did run on long Scores in Sin:</l>
+               <l>No Coats Galloon'd to's <hi>Levee</hi> do repair,</l>
+               <l>And he may ride alone to take the Air,</l>
+               <l>Forc'd to diſguiſe it, deeply though diſpleas'd,</l>
+               <l>He may pretend he is of trouble eas'd.</l>
+            </lg>
+            <lg>
+               <l>Honours are, without Royal Favour, Dreams,</l>
+               <l>And all are cold not warm'd with Royal Beams;</l>
+               <l>No badge of Greatneſs, wonted Luſtre bears,</l>
+               <l>But like a Garment out of faſhion wears.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Garter</hi> him that wears it may delight,</l>
+               <l>'Tis the Kings Favour that buoys-up the <hi>Knight;</hi>
+               </l>
+               <l>But ſtript of that, he's for an <hi>Idol</hi> ſpoil'd.</l>
+               <l>His <hi>Star</hi> looks Tarniſh'd, and his <hi>Ruban</hi> ſoil'd</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:98534:7"/>
+               <l>The Greateſt to ſupport the Crown ſhould ſtrive,</l>
+               <l>For all their Greatneſs from the Crown derive,</l>
+               <l>As much oblig'd is the moſt antient Peer,</l>
+               <l>As he that was created but laſt year;</l>
+            </lg>
+            <lg>
+               <l>That Male-contents much like Conſpirers look,</l>
+               <l>And have been ſometimes for Conſpirers took.</l>
+               <l>
+                  <hi>And when Conſpiracies their Aim do miſs,</hi>
+               </l>
+               <l>
+                  <hi>The Monarchy but deeper roote<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is:</hi>
+               </l>
+               <l>Sedition ſure has moſt enticing Charms?</l>
+               <l>For Princes have long <hi>Ears</hi> but longer <hi>Arms.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What more's convenient for Your Son to know,</l>
+               <l>You'll beſt by Precept, or Example ſhow,</l>
+               <l>That if Heav'n Grants him after You to Reign,</l>
+               <l>He ſhall with Fame his <hi>Mighty Poſt</hi> maintain,</l>
+               <l>If He for Fame ſhould with his Father vie,</l>
+               <l>And think to get the Prize by flatt<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>As <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Cyrus,</hi> ſaid He, is thought the Greater Man,</l>
+               <l>Conquer the World, and do the beſt you can<g ref="char:punc">▪</g>
+               </l>
+               <l>So You, SIR, muſt be counted Greater yet,</l>
+               <l>In that You did ſo Great a <hi>SON</hi> beget.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
